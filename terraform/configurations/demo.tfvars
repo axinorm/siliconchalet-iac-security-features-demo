@@ -1,0 +1,4 @@
+##
+# Global
+##
+namespace = "demo"

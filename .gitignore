@@ -1,0 +1,13 @@
+# Common
+.DS_Store
+.vscode
+.envrc
+
+# OpenTofu / Terraform
+.terraform
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+# Kubernetes
+k8s-demo-config
